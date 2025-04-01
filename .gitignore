@@ -9,4 +9,4 @@ obj/
 *.log
 *.vspscc
 *.vssscc
-Conexion/Datos/secrets.cs
+Datos/secrets.cs
