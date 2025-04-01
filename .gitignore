@@ -1,0 +1,12 @@
+vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+bin/
+obj/
+*.log
+*.vspscc
+*.vssscc
+../Conexion/Datos/secrets.cs
