@@ -14,7 +14,7 @@ Este repositorio contiene el código fuente de un sistema prototipo básico para
 - **Lenguaje de Programación:** C#
 - **Entorno de Desarrollo:** Visual Studio
 - **Interfaz Gráfica:** WinForms
-- **Base de Datos:** SQLite (o cualquier base de datos relacional, como SQL Server o MySQL)
+- **Base de Datos:** SQL Server
 - **Framework:** .NET Framework (versión específica)
 
 ## Requisitos
