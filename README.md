@@ -23,8 +23,7 @@ Para ejecutar el proyecto, asegúrate de tener instalados los siguientes compone
 
 - **Visual Studio 2019** o superior.
 - **.NET Framework 4.7.2** o superior (según la versión utilizada en el proyecto).
-- **SQLite** (si usas SQLite como base de datos, puedes usar otro sistema si es necesario).
-- **Microsoft SQL Server** o **MySQL** si usas una base de datos diferente.
+- **Microsoft SQL Server**
   
 ## 🔗 Links
 
