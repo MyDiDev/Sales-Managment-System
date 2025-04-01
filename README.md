@@ -26,3 +26,6 @@ Para ejecutar el proyecto, asegúrate de tener instalados los siguientes compone
 - **SQLite** (si usas SQLite como base de datos, puedes usar otro sistema si es necesario).
 - **Microsoft SQL Server** o **MySQL** si usas una base de datos diferente.
   
+## 🔗 Links
+
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MyDiDev)
