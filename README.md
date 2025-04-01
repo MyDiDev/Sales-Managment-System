@@ -4,10 +4,8 @@ Este repositorio contiene el código fuente de un sistema prototipo básico para
 
 ## Características
 
-- **Gestión de Clientes:** Registrar, editar y eliminar clientes.
-- **Gestión de Productos:** Añadir, editar y eliminar productos.
-- **Gestión de Ventas:** Realizar ventas, generar facturas y asociar ventas con clientes y productos.
-- **Reportes Básicos:** Consultar las ventas realizadas y el total de ventas por cliente o producto.
+- **Gestión de Clientes:** Registrar Clientes.
+- **Gestión de Ventas:** Realizar ventas y asociar ventas con clientes y productos.
 
 ## Tecnologías Utilizadas
 
