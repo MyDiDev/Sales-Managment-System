@@ -26,10 +26,3 @@ Para ejecutar el proyecto, asegúrate de tener instalados los siguientes compone
 - **SQLite** (si usas SQLite como base de datos, puedes usar otro sistema si es necesario).
 - **Microsoft SQL Server** o **MySQL** si usas una base de datos diferente.
   
-## Instalación
-
-1. **Clonar el repositorio:**
-
-   ```bash
-   git clone https://github.com/MyDiDev/Sales-Managment-System.git
-   cd sistema-manejo-ventas-clientes
